@@ -1,9 +1,5 @@
 # Project 3: Memory Allocator
 
-See: https://www.cs.usfca.edu/~mmalensek/cs326/assignments/project-3.html 
-
-To compile and use the allocator:
-
 ## ABOUT 
 This is a really fun program that allocates memory using mmap and determines whether we need to create an entirely new block
 or reallocate old memory. It will also reimplement a free function that will delete either an block of memory or just the small 
